@@ -46,7 +46,7 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/tracfac.git
+   git clone https://github.com/Nagur-Meera/TracFac.git
    cd tracfac
    ```
 
